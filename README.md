@@ -56,4 +56,4 @@ Use the Tavily API for generating user-friendly summaries.
 
 Test the agents individually and as a team.
 Ensure seamless collaboration between agents.
-Deploy the project and publish it on GitHub.
+
