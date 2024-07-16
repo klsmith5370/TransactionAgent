@@ -2,6 +2,10 @@
 
 Objective: Create a team of AI agents that work collaboratively to handle credit card transactions. The agents will perform tasks such as transaction authorization, fraud detection, and generating transaction summaries.
 
+## Overview
+
+This project demonstrates a multi-agent system for handling credit card transactions. The system includes agents for transaction authorization, fraud detection, and summary generation. The agents collaborate using the LangGraph framework and the Tavily API.
+
 ## Goals:
 
 Transaction Authorization: Verify the validity of the credit card details and the availability of funds.
